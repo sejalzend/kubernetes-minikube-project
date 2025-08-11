@@ -73,8 +73,7 @@ $ kubectl get pods
 ```
 
 *It will show 4 pods*
+## Conclusion
+You've successfully set up a Kubernetes cluster with Minikube and deployed your first application!
 
-
-
-
-    
+That's a wrap! Now go deploy awesome things with your new Kubernetes skills! 🎉🐳💻    
