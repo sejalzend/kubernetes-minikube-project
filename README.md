@@ -27,8 +27,8 @@ sudo install minikube-linux-amd64 /usr/local/bin/minikube
 *minikube start --driver=docker*
 
 2. Verify Cluster Status
-- *minikube status
-- *kubectl get nodes
+- *minikube status*
+- *kubectl get nodes*
 
 Should show 1 node named *minikube* with status *Ready*
 
